@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-const a int32 = 120
+//const a int32 = 120
 
 func main() {
 
